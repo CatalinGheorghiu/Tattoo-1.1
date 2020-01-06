@@ -24,12 +24,17 @@
 }
 
 #navbar ul {
-    flex-direction: column;
+    flex-direction: row;
     align-items: center;
 }
 
 #navbar ul li {
-    padding: 0.4rem;
+    text-align: left;
+    /* padding: 0.8rem; */
+}
+
+#navbar ul li a {
+    /* font-size: 0.6rem; */
 }
 /* SmartPhones */
 
