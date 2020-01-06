@@ -1,25 +1,7 @@
-#what .items {
-    display: block;
-    padding: 1rem;
-}
 
-/* Align icon to left */
-
-#what .items .item {
-    display: flex;
-    text-align: left;
-}
-
-/* Position icon */
-
-#what .items .item i {
-    margin-right: 1.3rem;
-    align-self: center;
-    margin-bottom: 0;
-}
 
 /* SmartPhones */
-
+ 
 @media (max-width: 500px) {
     #navbar {
         flex-direction: column;
@@ -67,13 +49,12 @@
 
 @media (max-height: 568px) {
     .l-heading {
-        font-size: 3rem;
+        font-size: 2rem;
+        line-height: 3.5rem;
     }
     .lead {
         font-size: 1rem;
     }
-    #showcase .showcase-content {
-        margin-top: -2rem;
-        top: 135px;
-    }
+    
+    
 }

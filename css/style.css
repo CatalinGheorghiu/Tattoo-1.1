@@ -201,7 +201,7 @@ span {
 /* Showcase */
 
 #showcase {
-    background: #333333 url("/img/new-showcase.jpg") no-repeat center
+    background: #333333 url("/img/new-showcase3.jpg") no-repeat center
         center/cover;
     height: 100vh;
     color: #ffffff;
@@ -221,7 +221,7 @@ span {
     right: 0;
     bottom: 0;
     left: 0;
-    background-color: rgba(0, 0, 0, 0.4);
+    /* background-color: rgba(0, 0, 0, 0.4); */
 }
 
 /* Section: What We Do */
