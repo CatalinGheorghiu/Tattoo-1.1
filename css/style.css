@@ -160,7 +160,8 @@ span {
     padding: 0.5rem 0;
     border-bottom: #444444 dotted 1px;
 }
-/* Navbar */
+
+/* Navbar  ########################################### */
 
 #logo {
     align-self: center;
@@ -200,7 +201,8 @@ span {
 /* Showcase */
 
 #showcase {
-    background: #333333 url("/img/feelfarbig-magazine-SBrfnXvI5S4-unsplash.jpg") no-repeat center center/cover;
+    background: #333333 url("/img/new-showcase.jpg") no-repeat center
+        center/cover;
     height: 100vh;
     color: #ffffff;
 }

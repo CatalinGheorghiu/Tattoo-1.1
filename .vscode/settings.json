@@ -1,6 +1,5 @@
 {
     "editor.formatOnSaveTimeout": 500,
     "editor.formatOnSave": true,
-    "prettier.tabWidth": 4,
-    "prettier.printWidth": 120
+    "prettier.tabWidth": 4
 }
