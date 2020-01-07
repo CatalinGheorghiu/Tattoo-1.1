@@ -25,7 +25,8 @@ window.addEventListener("scroll", function() {
 
 $("#navbar a, .btn").on("click", function(event) {
     if (this.hash !== "") {
-        event.preventDefault();
+        // event.preventDefault();
+        // event.stopPropagation();
 
         const hash = this.hash;
 
@@ -35,6 +36,8 @@ $("#navbar a, .btn").on("click", function(event) {
             },
             800
         );
+        return false;
     }
 });
+
 
