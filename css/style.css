@@ -328,8 +328,10 @@ span {
 }
 
 .container .art-image img {
-    height: 500px;
-    width: 800px;
+    /* height: 500px; */
+    /* width: 800px; */
+    height: 70vh;
+    width: 60vw;
 }
 
 .container .main-section {
